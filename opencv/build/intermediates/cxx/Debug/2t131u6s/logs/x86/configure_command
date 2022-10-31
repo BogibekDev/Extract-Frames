@@ -1,0 +1,18 @@
+/home/bogibek/Android/Sdk/cmake/3.18.1/bin/cmake \
+  -H/home/bogibek/AndroidStudioProjects/JustExtractFrames/opencv/libcxx_helper \
+  -DCMAKE_SYSTEM_NAME=Android \
+  -DCMAKE_EXPORT_COMPILE_COMMANDS=ON \
+  -DCMAKE_SYSTEM_VERSION=21 \
+  -DANDROID_PLATFORM=android-21 \
+  -DANDROID_ABI=x86 \
+  -DCMAKE_ANDROID_ARCH_ABI=x86 \
+  -DANDROID_NDK=/home/bogibek/Android/Sdk/ndk/23.1.7779620 \
+  -DCMAKE_ANDROID_NDK=/home/bogibek/Android/Sdk/ndk/23.1.7779620 \
+  -DCMAKE_TOOLCHAIN_FILE=/home/bogibek/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake \
+  -DCMAKE_MAKE_PROGRAM=/home/bogibek/Android/Sdk/cmake/3.18.1/bin/ninja \
+  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/bogibek/AndroidStudioProjects/JustExtractFrames/opencv/build/intermediates/cxx/Debug/2t131u6s/obj/x86 \
+  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/home/bogibek/AndroidStudioProjects/JustExtractFrames/opencv/build/intermediates/cxx/Debug/2t131u6s/obj/x86 \
+  -DCMAKE_BUILD_TYPE=Debug \
+  -B/home/bogibek/AndroidStudioProjects/JustExtractFrames/opencv/.cxx/Debug/2t131u6s/x86 \
+  -GNinja \
+  -DANDROID_STL=c++_shared

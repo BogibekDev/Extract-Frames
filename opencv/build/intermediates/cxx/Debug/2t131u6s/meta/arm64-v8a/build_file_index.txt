@@ -1,0 +1,1 @@
+/home/bogibek/AndroidStudioProjects/JustExtractFrames/opencv/libcxx_helper/CMakeLists.txt
