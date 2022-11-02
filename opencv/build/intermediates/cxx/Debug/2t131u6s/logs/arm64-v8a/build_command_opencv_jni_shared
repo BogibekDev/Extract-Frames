@@ -1,4 +1,0 @@
-/home/bogibek/Android/Sdk/cmake/3.18.1/bin/ninja \
-  -C \
-  /home/bogibek/AndroidStudioProjects/JustExtractFrames/opencv/.cxx/Debug/2t131u6s/arm64-v8a \
-  opencv_jni_shared

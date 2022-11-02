@@ -1,2 +1,0 @@
-ninja: Entering directory `/home/bogibek/AndroidStudioProjects/JustExtractFrames/opencv/.cxx/Debug/2t131u6s/arm64-v8a'
-ninja: no work to do.

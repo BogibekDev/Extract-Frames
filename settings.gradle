@@ -14,4 +14,3 @@ dependencyResolutionManagement {
 }
 rootProject.name = "JustExtractFrames"
 include ':app'
-include ':opencv'
